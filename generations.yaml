@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Renault_Twingo"
+
+generations:
+  - name: "First Generation (C06)"
+    start_year: 1992
+    end_year: 2007
+    description: "The original city car with a 1.2 L gasoline engine."
+  - name: "Second Generation (N)"
+    start_year: 2007
+    end_year: 2014
+    description: "Built on the Clio II platform with 1.2 L gasoline and 1.5 dCi diesel engines."
+  - name: "Third Generation (AH)"
+    start_year: 2014
+    end_year: 2024
+    description: "Rear-engined, sharing its platform with the smart forfour; an electric version (Twingo E-Tech) arrived in 2020."
