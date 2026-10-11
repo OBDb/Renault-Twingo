@@ -1,0 +1,5 @@
+command_id: '743.220207'
+test_cases:
+- expected_values:
+    TWINGO_ODO: 27325
+  response: 76306620207006ABD
