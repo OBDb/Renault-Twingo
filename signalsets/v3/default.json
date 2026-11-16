@@ -1193,7 +1193,7 @@
   ]},
 { "hdr": "7E4", "rax": "7EC", "din": "C0", "dbg": true, "cmd": {"22": "2035"}, "freq": 1,
   "signals": [
-    {"id": "TWINGO_CRUISE_CTRL_SETTING", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control setting"}
+    {"id": "TWINGO_CRUISE_CTRL_SETTING", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control setting", "suggestedMetric": "cruiseSetSpeed"}
   ]},
 { "hdr": "7E4", "rax": "7EC", "din": "C0", "dbg": true, "cmd": {"22": "2039"}, "freq": 1,
   "signals": [
