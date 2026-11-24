@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     TWINGO_MANUAL_GEARBOX_LEVER: 1
   response: 7E80462222E01
+- expected_values:
+    TWINGO_MANUAL_GEARBOX_LEVER: 2
+  response: 7E80462222E02

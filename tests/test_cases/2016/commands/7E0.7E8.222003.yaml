@@ -4,8 +4,8 @@ test_cases:
     TWINGO_VSS_7E0: 0
   response: '7E8056220030000'
 - expected_values:
-    TWINGO_VSS_7E0: 53.12
-  response: 7E80562200314C0
+    TWINGO_VSS_7E0: 12.69
+  response: 7E80562200304F5
 - expected_values:
     TWINGO_VSS_7E0: 99.92
   response: '7E8056220032708'

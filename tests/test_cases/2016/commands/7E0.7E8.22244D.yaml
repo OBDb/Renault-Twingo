@@ -4,8 +4,8 @@ test_cases:
     TWINGO_DAMPER_VLV_UP_T: 25.8
   response: 7E80562244D0BAC
 - expected_values:
-    TWINGO_DAMPER_VLV_UP_T: 33.2
-  response: 7E80562244D0BF6
+    TWINGO_DAMPER_VLV_UP_T: 34
+  response: 7E80562244D0BFE
 - expected_values:
-    TWINGO_DAMPER_VLV_UP_T: 35.4
-  response: 7E80562244D0C0C
+    TWINGO_DAMPER_VLV_UP_T: 35.3
+  response: 7E80562244D0C0B

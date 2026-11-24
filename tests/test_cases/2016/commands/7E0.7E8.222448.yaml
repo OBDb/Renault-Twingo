@@ -4,8 +4,8 @@ test_cases:
     TWINGO_P_UP_TURBINE: 1020
   response: 7E80562244803FC
 - expected_values:
-    TWINGO_P_UP_TURBINE: 1021
-  response: 7E80562244803FD
+    TWINGO_P_UP_TURBINE: 1023
+  response: 7E80562244803FF
 - expected_values:
-    TWINGO_P_UP_TURBINE: 1028
-  response: '7E8056224480404'
+    TWINGO_P_UP_TURBINE: 1024
+  response: '7E8056224480400'

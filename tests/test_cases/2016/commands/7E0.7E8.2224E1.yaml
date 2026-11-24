@@ -7,8 +7,8 @@ test_cases:
     TWINGO_MANIFOLD_P_7E0: 542
   response: 7E8056224E1021E
 - expected_values:
-    TWINGO_MANIFOLD_P_7E0: 999
-  response: 7E8056224E103E7
+    TWINGO_MANIFOLD_P_7E0: 997
+  response: 7E8056224E103E5
 - expected_values:
     TWINGO_MANIFOLD_P_7E0: 1020
   response: 7E8056224E103FC

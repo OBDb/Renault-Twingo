@@ -4,5 +4,14 @@ test_cases:
     TWINGO_VSS: 0
   response: 76005624B040000
 - expected_values:
+    TWINGO_VSS: 8.7
+  response: 76005624B040366
+- expected_values:
+    TWINGO_VSS: 10.98
+  response: 76005624B04044A
+- expected_values:
+    TWINGO_VSS: 13.07
+  response: 76005624B04051B
+- expected_values:
     TWINGO_VSS: 49.88
   response: 76005624B04137C

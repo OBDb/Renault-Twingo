@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2220AA
 test_cases:
 - expected_values:
+    TWINGO_MASTERVAC_P: 550
+  response: 7E8046220AA0B
+- expected_values:
     TWINGO_MASTERVAC_P: 600
   response: 7E8046220AA0C
 - expected_values:

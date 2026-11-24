@@ -4,5 +4,14 @@ test_cases:
     TWINGO_SPD_REAR_L_H_WHL: 0
   response: 76005624B020000
 - expected_values:
+    TWINGO_SPD_REAR_L_H_WHL: 8.33
+  response: 76005624B020341
+- expected_values:
+    TWINGO_SPD_REAR_L_H_WHL: 12.15
+  response: 76005624B0204BF
+- expected_values:
+    TWINGO_SPD_REAR_L_H_WHL: 13.22
+  response: 76005624B02052A
+- expected_values:
     TWINGO_SPD_REAR_L_H_WHL: 49.73
   response: 76005624B02136D

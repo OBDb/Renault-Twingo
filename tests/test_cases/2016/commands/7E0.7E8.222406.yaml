@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222406
 test_cases:
 - expected_values:
-    TWINGO_INLET_FLAP_CTRL: -20
-  response: '7E8056224067830'
+    TWINGO_INLET_FLAP_CTRL: -22.8
+  response: '7E8056224067718'
 - expected_values:
     TWINGO_INLET_FLAP_CTRL: -7.7
   response: 7E8056224067CFE
@@ -10,5 +10,5 @@ test_cases:
     TWINGO_INLET_FLAP_CTRL: 0
   response: '7E8056224068000'
 - expected_values:
-    TWINGO_INLET_FLAP_CTRL: 17.1
-  response: 7E80562240686AE
+    TWINGO_INLET_FLAP_CTRL: 20.5
+  response: '7E8056224068802'

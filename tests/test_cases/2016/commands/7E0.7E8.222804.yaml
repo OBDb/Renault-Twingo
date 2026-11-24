@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     TWINGO_INJ_DUR: 10232
   response: 7E8066228040009FE
+- expected_values:
+    TWINGO_INJ_DUR: 12076
+  response: 7E806622804000BCB

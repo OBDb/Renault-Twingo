@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.222246
 test_cases:
 - expected_values:
-    TWINGO_IDLE_REGULATION: -0.5
-  response: 7E8056222467FF0
+    TWINGO_IDLE_REGULATION: -2.1875
+  response: 7E8056222467FBA
 - expected_values:
-    TWINGO_IDLE_REGULATION: -0.21875
-  response: 7E8056222467FF9
-- expected_values:
-    TWINGO_IDLE_REGULATION: -0.15625
-  response: 7E8056222467FFB
+    TWINGO_IDLE_REGULATION: -0.03125
+  response: 7E8056222467FFF
 - expected_values:
     TWINGO_IDLE_REGULATION: 0
   response: '7E8056222468000'

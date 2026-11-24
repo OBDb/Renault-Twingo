@@ -4,5 +4,14 @@ test_cases:
     TWINGO_SPD_FRONT_R_H_WHL: 0
   response: 76005624B010000
 - expected_values:
+    TWINGO_SPD_FRONT_R_H_WHL: 9.68
+  response: 76005624B0103C8
+- expected_values:
+    TWINGO_SPD_FRONT_R_H_WHL: 10.29
+  response: 76005624B010405
+- expected_values:
+    TWINGO_SPD_FRONT_R_H_WHL: 12.88
+  response: 76005624B010508
+- expected_values:
     TWINGO_SPD_FRONT_R_H_WHL: 49.84
   response: 76005624B011378

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.222039
 test_cases:
 - expected_values:
+    TWINGO_RV_LV_BUTTON_V_7E0: 1.008
+  response: 7E80562203903F0
+- expected_values:
     TWINGO_RV_LV_BUTTON_V_7E0: 3.996
   response: 7E8056220390F9C
 - expected_values:

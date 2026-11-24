@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     TWINGO_COMPUTER_CURRENT: 10494982
   response: 76007624B0600A02406
+- expected_values:
+    TWINGO_COMPUTER_CURRENT: 10495021
+  response: 76007624B0600A0242D
+- expected_values:
+    TWINGO_COMPUTER_CURRENT: 10495025
+  response: 76007624B0600A02431
+- expected_values:
+    TWINGO_COMPUTER_CURRENT: 10495626
+  response: 76007624B0600A0268A

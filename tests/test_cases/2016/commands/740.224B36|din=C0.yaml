@@ -4,5 +4,8 @@ test_cases:
     TWINGO_STEER_WHL_ANG_PROGRAMMING: -0.6
   response: 76004624B367C
 - expected_values:
+    TWINGO_STEER_WHL_ANG_PROGRAMMING: -0.4
+  response: 76004624B367D
+- expected_values:
     TWINGO_STEER_WHL_ANG_PROGRAMMING: -0.2
   response: 76004624B367E
