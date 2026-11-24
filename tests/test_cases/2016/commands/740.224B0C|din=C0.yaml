@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     TWINGO_YAW_ANG: 0
   response: 76005624B0C7FFF
+- expected_values:
+    TWINGO_YAW_ANG: 1
+  response: 76005624B0C8004
+- expected_values:
+    TWINGO_YAW_ANG: 14
+  response: 76005624B0C8045

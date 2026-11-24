@@ -4,5 +4,8 @@ test_cases:
     TWINGO_DN_HEATING_SENS_CTRL: 0
   response: 7E8056224C10000
 - expected_values:
+    TWINGO_DN_HEATING_SENS_CTRL: 250
+  response: 7E8056224C100FA
+- expected_values:
     TWINGO_DN_HEATING_SENS_CTRL: 665
   response: 7E8056224C10299

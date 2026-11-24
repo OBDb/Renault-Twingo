@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TWINGO_CYL_3_KNOCK: 21309
   response: 7E805622849533D
+- expected_values:
+    TWINGO_CYL_3_KNOCK: 21310
+  response: 7E805622849533E

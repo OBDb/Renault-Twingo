@@ -4,11 +4,11 @@ test_cases:
     TWINGO_V_MEAS_THROTTLE_1: 532
   response: '7E8056224180214'
 - expected_values:
-    TWINGO_V_MEAS_THROTTLE_1: 1034
-  response: 7E805622418040A
+    TWINGO_V_MEAS_THROTTLE_1: 775
+  response: '7E8056224180307'
 - expected_values:
-    TWINGO_V_MEAS_THROTTLE_1: 1227
-  response: 7E80562241804CB
+    TWINGO_V_MEAS_THROTTLE_1: 2029
+  response: 7E80562241807ED
 - expected_values:
     TWINGO_V_MEAS_THROTTLE_1: 4229
   response: '7E8056224181085'

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.222416
 test_cases:
 - expected_values:
-    TWINGO_THROTTLE_POS_MEAS_2: 11.45
-  response: 7E80562241600E5
-- expected_values:
-    TWINGO_THROTTLE_POS_MEAS_2: 11.5
-  response: 7E80562241600E6
+    TWINGO_THROTTLE_POS_MEAS_2: 10.1
+  response: 7E80562241600CA
 - expected_values:
     TWINGO_THROTTLE_POS_MEAS_2: 12.95
   response: '7E8056224160103'
+- expected_values:
+    TWINGO_THROTTLE_POS_MEAS_2: 38.3
+  response: 7E80562241602FE
 - expected_values:
     TWINGO_THROTTLE_POS_MEAS_2: 83.75
   response: 7E805622416068B

@@ -4,5 +4,8 @@ test_cases:
     TWINGO_BAT_V_12_V: 1268
   response: '763056220063188'
 - expected_values:
+    TWINGO_BAT_V_12_V: 1386.3
+  response: '763056220063627'
+- expected_values:
     TWINGO_BAT_V_12_V: 1403.1
   response: 7630562200636CF

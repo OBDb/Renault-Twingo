@@ -7,5 +7,5 @@ test_cases:
     TWINGO_RICHNESS_CORR: 0.99999
   response: '7E8056228508000'
 - expected_values:
-    TWINGO_RICHNESS_CORR: 1.1117
-  response: 7E805622850AAE6
+    TWINGO_RICHNESS_CORR: 1.16804
+  response: 7E805622850C088

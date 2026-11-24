@@ -4,8 +4,8 @@ test_cases:
     TWINGO_DN_OXYGEN_SENS_V: 97
   response: 7E80562244A0061
 - expected_values:
-    TWINGO_DN_OXYGEN_SENS_V: 747
-  response: 7E80562244A02EB
+    TWINGO_DN_OXYGEN_SENS_V: 766
+  response: 7E80562244A02FE
 - expected_values:
     TWINGO_DN_OXYGEN_SENS_V: 771
   response: 7E80562244A0303

@@ -1,6 +1,9 @@
 command_id: 740.224B07|din=C0
 test_cases:
 - expected_values:
+    TWINGO_LONGITUDINAL_ACCEL: -0.3
+  response: 76004624B077C
+- expected_values:
     TWINGO_LONGITUDINAL_ACCEL: 0
   response: 76004624B077F
 - expected_values:

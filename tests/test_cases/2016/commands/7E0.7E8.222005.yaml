@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.222005
 test_cases:
 - expected_values:
-    TWINGO_COMPUTER_SUP_V_7E0: 12.6
-  response: 7E80562200504EC
+    TWINGO_COMPUTER_SUP_V_7E0: 12.32
+  response: 7E80562200504D0
 - expected_values:
-    TWINGO_COMPUTER_SUP_V_7E0: 12.68
-  response: 7E80562200504F4
+    TWINGO_COMPUTER_SUP_V_7E0: 12.7
+  response: 7E80562200504F6
 - expected_values:
     TWINGO_COMPUTER_SUP_V_7E0: 12.8
   response: '7E8056220050500'

@@ -4,8 +4,11 @@ test_cases:
     TWINGO_LAMBDA: 0.06274
   response: 7E8056228C50808
 - expected_values:
-    TWINGO_LAMBDA: 0.97638
-  response: 7E8056228C57CFA
+    TWINGO_LAMBDA: 0.78107
+  response: 7E8056228C563FA
 - expected_values:
-    TWINGO_LAMBDA: 1.06943
-  response: 7E8056228C588E3
+    TWINGO_LAMBDA: 0.98438
+  response: 7E8056228C57E00
+- expected_values:
+    TWINGO_LAMBDA: 1.53809
+  response: 7E8056228C5C4E0

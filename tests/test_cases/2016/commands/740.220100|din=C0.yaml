@@ -1,5 +1,8 @@
 command_id: 740.220100|din=C0
 test_cases:
 - expected_values:
+    TWINGO_STEER_WHL_ANG: -44.2
+  response: '760056201007E45'
+- expected_values:
     TWINGO_STEER_WHL_ANG: 1.2
   response: 76005620100800B

@@ -7,5 +7,5 @@ test_cases:
     TWINGO_INTERNAL_T_SENS: 783.3
   response: 7E80562251D2943
 - expected_values:
-    TWINGO_INTERNAL_T_SENS: 786
-  response: 7E80562251D295E
+    TWINGO_INTERNAL_T_SENS: 786.2
+  response: 7E80562251D2960

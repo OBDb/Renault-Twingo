@@ -4,8 +4,8 @@ test_cases:
     TWINGO_MEAS_THROTTLE_POS: 10.45
   response: 7E80562242F00D1
 - expected_values:
-    TWINGO_MEAS_THROTTLE_POS: 12.7
-  response: 7E80562242F00FE
+    TWINGO_MEAS_THROTTLE_POS: 12.75
+  response: 7E80562242F00FF
 - expected_values:
     TWINGO_MEAS_THROTTLE_POS: 51.2
   response: 7E80562242F0400

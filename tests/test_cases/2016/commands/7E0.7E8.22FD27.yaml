@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22FD27
 test_cases:
 - expected_values:
-    TWINGO_LAMBDA_7E0: 0.93417
-  response: 7E80562FD270EF3
+    TWINGO_LAMBDA_7E0: 0.84629
+  response: 7E80562FD270D8B
 - expected_values:
     TWINGO_LAMBDA_7E0: 0.99886
   response: 7E80562FD270FFC

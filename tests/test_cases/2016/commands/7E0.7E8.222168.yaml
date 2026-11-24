@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     TWINGO_NUM_STARTING_CYCLES: 24771
   response: 7E8066221680060C3
+- expected_values:
+    TWINGO_NUM_STARTING_CYCLES: 24772
+  response: 7E8066221680060C4
+- expected_values:
+    TWINGO_NUM_STARTING_CYCLES: 24773
+  response: 7E8066221680060C5

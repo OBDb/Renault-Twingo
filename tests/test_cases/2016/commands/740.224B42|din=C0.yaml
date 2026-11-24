@@ -1,5 +1,11 @@
 command_id: 740.224B42|din=C0
 test_cases:
 - expected_values:
+    TWINGO_STEER_WHL_SPD: -182.9
+  response: 76005624B4278DA
+- expected_values:
+    TWINGO_STEER_WHL_SPD: -20.9
+  response: 76005624B427F2E
+- expected_values:
     TWINGO_STEER_WHL_SPD: 0.1
   response: 76005624B428000

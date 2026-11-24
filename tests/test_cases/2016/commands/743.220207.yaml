@@ -4,20 +4,5 @@ test_cases:
     TWINGO_ODO: 104941
   response: 763066202070199ED
 - expected_values:
-    TWINGO_ODO: 104943
-  response: 763066202070199EF
-- expected_values:
-    TWINGO_ODO: 104945
-  response: 763066202070199F1
-- expected_values:
-    TWINGO_ODO: 104946
-  response: 763066202070199F2
-- expected_values:
-    TWINGO_ODO: 104948
-  response: 763066202070199F4
-- expected_values:
-    TWINGO_ODO: 104949
-  response: 763066202070199F5
-- expected_values:
-    TWINGO_ODO: 104950
-  response: 763066202070199F6
+    TWINGO_ODO: 104956
+  response: 763066202070199FC

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     TWINGO_TRANSVERSE_ACCEL_740: 0
   response: 76004624B0B7F
+- expected_values:
+    TWINGO_TRANSVERSE_ACCEL_740: 0.04
+  response: 76004624B0B81

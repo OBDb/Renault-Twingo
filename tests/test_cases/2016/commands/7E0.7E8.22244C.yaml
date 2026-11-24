@@ -7,8 +7,20 @@ test_cases:
     TWINGO_DN_SENS_HEATING_OCR: 1.66667
   response: 7E80462244C05
 - expected_values:
+    TWINGO_DN_SENS_HEATING_OCR: 2
+  response: 7E80462244C06
+- expected_values:
     TWINGO_DN_SENS_HEATING_OCR: 24
   response: 7E80462244C48
 - expected_values:
     TWINGO_DN_SENS_HEATING_OCR: 24.33333
   response: 7E80462244C49
+- expected_values:
+    TWINGO_DN_SENS_HEATING_OCR: 24.66667
+  response: 7E80462244C4A
+- expected_values:
+    TWINGO_DN_SENS_HEATING_OCR: 27.66667
+  response: 7E80462244C53
+- expected_values:
+    TWINGO_DN_SENS_HEATING_OCR: 29
+  response: 7E80462244C57

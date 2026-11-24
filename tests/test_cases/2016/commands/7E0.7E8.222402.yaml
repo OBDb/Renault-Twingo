@@ -4,6 +4,9 @@ test_cases:
     TWINGO_BOOST_P_REFERENCE: 1019
   response: 7E80562240203FB
 - expected_values:
+    TWINGO_BOOST_P_REFERENCE: 1020
+  response: 7E80562240203FC
+- expected_values:
     TWINGO_BOOST_P_REFERENCE: 1027
   response: '7E8056224020403'
 - expected_values:

@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     TWINGO_INLET_CAM_DEPHASER: 0
   response: '7E8056220300000'
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASER: 15.14
+  response: 7E80562203002F5
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASER: 49.18
+  response: 7E805622030099B
