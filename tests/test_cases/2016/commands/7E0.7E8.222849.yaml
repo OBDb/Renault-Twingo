@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222849
+test_cases:
+- expected_values:
+    TWINGO_CYL_3_KNOCK: 21309
+  response: 7E805622849533D

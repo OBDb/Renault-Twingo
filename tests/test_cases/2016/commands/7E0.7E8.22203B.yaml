@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22203B
+test_cases:
+- expected_values:
+    TWINGO_CC_SL_CONNECTION: 0
+  response: 7E80462203B00

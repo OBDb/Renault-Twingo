@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22FD28
+test_cases:
+- expected_values:
+    TWINGO_HEATED_OXYGEN_SENS: 0
+  response: 7E80462FD2800
+- expected_values:
+    TWINGO_HEATED_OXYGEN_SENS: 12
+  response: 7E80462FD280C

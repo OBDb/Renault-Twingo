@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2224C1
+test_cases:
+- expected_values:
+    TWINGO_DN_HEATING_SENS_CTRL: 0
+  response: 7E8056224C10000
+- expected_values:
+    TWINGO_DN_HEATING_SENS_CTRL: 665
+  response: 7E8056224C10299

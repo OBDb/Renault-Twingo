@@ -1,0 +1,8 @@
+command_id: 740.224B04|din=C0
+test_cases:
+- expected_values:
+    TWINGO_VSS: 0
+  response: 76005624B040000
+- expected_values:
+    TWINGO_VSS: 49.88
+  response: 76005624B04137C

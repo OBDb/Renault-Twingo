@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222033
+test_cases:
+- expected_values:
+    TWINGO_INLET_CAM_SHIFTER: 0
+  response: '7E8056220330000'

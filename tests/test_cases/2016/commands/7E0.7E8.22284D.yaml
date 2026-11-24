@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22284D
+test_cases:
+- expected_values:
+    TWINGO_AVG_KNOCK_SIG: 10
+  response: 7E80462284D0A
+- expected_values:
+    TWINGO_AVG_KNOCK_SIG: 45
+  response: 7E80462284D2D

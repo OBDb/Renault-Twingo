@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222264
+test_cases:
+- expected_values:
+    TWINGO_CLT_FLOW_VLV_CTRL: 1
+  response: '7E80462226401'

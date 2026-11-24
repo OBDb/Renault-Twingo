@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2228C5
+test_cases:
+- expected_values:
+    TWINGO_LAMBDA: 0.06274
+  response: 7E8056228C50808
+- expected_values:
+    TWINGO_LAMBDA: 0.97638
+  response: 7E8056228C57CFA
+- expected_values:
+    TWINGO_LAMBDA: 1.06943
+  response: 7E8056228C588E3

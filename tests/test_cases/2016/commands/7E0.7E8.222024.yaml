@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.222024
+test_cases:
+- expected_values:
+    TWINGO_IDLE_SPD_REFERENCE: 800
+  response: 7E8056220240C80
+- expected_values:
+    TWINGO_IDLE_SPD_REFERENCE: 850
+  response: 7E8056220240D48
+- expected_values:
+    TWINGO_IDLE_SPD_REFERENCE: 894
+  response: 7E8056220240DF8
+- expected_values:
+    TWINGO_IDLE_SPD_REFERENCE: 1050
+  response: '7E8056220241068'
+- expected_values:
+    TWINGO_IDLE_SPD_REFERENCE: 1100
+  response: '7E8056220241130'

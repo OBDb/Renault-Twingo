@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.222822
+test_cases:
+- expected_values:
+    TWINGO_CANISTER_BLEED: 0
+  response: '7E8056228220000'
+- expected_values:
+    TWINGO_CANISTER_BLEED: 1.30687
+  response: '7E8056228220358'
+- expected_values:
+    TWINGO_CANISTER_BLEED: 3.2626
+  response: '7E8056228220859'
+- expected_values:
+    TWINGO_CANISTER_BLEED: 3.4
+  response: 7E80562282208B3
+- expected_values:
+    TWINGO_CANISTER_BLEED: 25.18473
+  response: '7E8056228224070'
+- expected_values:
+    TWINGO_CANISTER_BLEED: 30.34504
+  response: 7E8056228224DA4
+- expected_values:
+    TWINGO_CANISTER_BLEED: 37.13435
+  response: 7E8056228225F03
+- expected_values:
+    TWINGO_CANISTER_BLEED: 37.56641
+  response: 7E805622822601E
+- expected_values:
+    TWINGO_CANISTER_BLEED: 40.50992
+  response: 7E80562282267A6

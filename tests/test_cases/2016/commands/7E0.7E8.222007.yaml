@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222007
+test_cases:
+- expected_values:
+    TWINGO_ESTIMATED_EOT: 58.5
+  response: 7E8056220070CF3
+- expected_values:
+    TWINGO_ESTIMATED_EOT: 59
+  response: 7E8056220070CF8
+- expected_values:
+    TWINGO_ESTIMATED_EOT: 59.8
+  response: 7E8056220070D00

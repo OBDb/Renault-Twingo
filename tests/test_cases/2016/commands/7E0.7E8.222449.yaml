@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222449
+test_cases:
+- expected_values:
+    TWINGO_UP_OXYGEN_SENS_V: 0
+  response: '7E8056224490000'

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22207A
+test_cases:
+- expected_values:
+    TWINGO_DUR_RESUME_BUTTON: 3
+  response: 7E80462207A03

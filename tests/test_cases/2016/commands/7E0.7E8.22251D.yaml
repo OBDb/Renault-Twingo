@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22251D
+test_cases:
+- expected_values:
+    TWINGO_INTERNAL_T_SENS: -40
+  response: 7E80562251D091A
+- expected_values:
+    TWINGO_INTERNAL_T_SENS: 783.3
+  response: 7E80562251D2943
+- expected_values:
+    TWINGO_INTERNAL_T_SENS: 786
+  response: 7E80562251D295E

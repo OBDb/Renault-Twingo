@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2224D7
+test_cases:
+- expected_values:
+    TWINGO_LINEARISED_MANIFOLD_P: 194
+  response: 7E8056224D700C2
+- expected_values:
+    TWINGO_LINEARISED_MANIFOLD_P: 533
+  response: 7E8056224D70215
+- expected_values:
+    TWINGO_LINEARISED_MANIFOLD_P: 1009
+  response: 7E8056224D703F1
+- expected_values:
+    TWINGO_LINEARISED_MANIFOLD_P: 1020
+  response: 7E8056224D703FC

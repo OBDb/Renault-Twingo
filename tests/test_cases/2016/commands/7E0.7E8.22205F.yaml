@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22205F
+test_cases:
+- expected_values:
+    TWINGO_FAST_IDLE_SPD: 1000
+  response: 7E80562205F0FA0

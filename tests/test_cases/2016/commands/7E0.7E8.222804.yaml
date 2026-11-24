@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222804
+test_cases:
+- expected_values:
+    TWINGO_INJ_DUR: 0
+  response: '7E806622804000000'
+- expected_values:
+    TWINGO_INJ_DUR: 10232
+  response: 7E8066228040009FE

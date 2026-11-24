@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2221BC
+test_cases:
+- expected_values:
+    TWINGO_LAST_ADAPTIVE: 1
+  response: 7E8046221BC01

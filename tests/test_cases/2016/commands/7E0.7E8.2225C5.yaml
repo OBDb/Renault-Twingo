@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2225C5
+test_cases:
+- expected_values:
+    TWINGO_TURBO_POS_SETPOINT: 0
+  response: 7E8056225C58000

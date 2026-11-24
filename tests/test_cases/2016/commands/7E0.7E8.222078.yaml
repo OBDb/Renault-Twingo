@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222078
+test_cases:
+- expected_values:
+    TWINGO_CC_SL_DEACTIVATION: 0
+  response: '7E80462207800'
+- expected_values:
+    TWINGO_CC_SL_DEACTIVATION: 1
+  response: '7E80462207801'
+- expected_values:
+    TWINGO_CC_SL_DEACTIVATION: 2
+  response: '7E80462207802'

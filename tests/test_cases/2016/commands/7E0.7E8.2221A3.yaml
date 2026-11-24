@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2221A3
+test_cases:
+- expected_values:
+    TWINGO_FLYWHEEL_TGT: 1
+  response: 7E8046221A301

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222842
+test_cases:
+- expected_values:
+    TWINGO_COMBUSTION_MIS_CNT_2: 0
+  response: '7E8056228420000'
+- expected_values:
+    TWINGO_COMBUSTION_MIS_CNT_2: 20
+  response: '7E8056228420014'

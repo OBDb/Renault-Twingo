@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222057
+test_cases:
+- expected_values:
+    TWINGO_ALTERNATOR_POWER: 50
+  response: '7E8056220570005'
+- expected_values:
+    TWINGO_ALTERNATOR_POWER: 880
+  response: '7E8056220570058'

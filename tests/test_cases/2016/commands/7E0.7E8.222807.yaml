@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222807
+test_cases:
+- expected_values:
+    TWINGO_IGN_ADVANCE: -19.625
+  response: 7E8046228070C
+- expected_values:
+    TWINGO_IGN_ADVANCE: 27.04167
+  response: '7E80462280798'

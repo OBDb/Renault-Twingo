@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22200F
+test_cases:
+- expected_values:
+    TWINGO_BRAKING_DETECTED: 0
+  response: 7E80462200F00
+- expected_values:
+    TWINGO_BRAKING_DETECTED: 2
+  response: 7E80462200F02

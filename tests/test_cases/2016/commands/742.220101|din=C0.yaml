@@ -1,0 +1,5 @@
+command_id: 742.220101|din=C0
+test_cases:
+- expected_values:
+    TWINGO_STEER_WHL_SPD_CALC: -3276
+  response: '762056201010001'

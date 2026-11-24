@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22244D
+test_cases:
+- expected_values:
+    TWINGO_DAMPER_VLV_UP_T: 25.8
+  response: 7E80562244D0BAC
+- expected_values:
+    TWINGO_DAMPER_VLV_UP_T: 33.2
+  response: 7E80562244D0BF6
+- expected_values:
+    TWINGO_DAMPER_VLV_UP_T: 35.4
+  response: 7E80562244D0C0C

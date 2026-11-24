@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222001
+test_cases:
+- expected_values:
+    TWINGO_WATER_T: 55.6
+  response: 7E8056220010CD6
+- expected_values:
+    TWINGO_WATER_T: 59.8
+  response: 7E8056220010D00

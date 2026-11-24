@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22244B
+test_cases:
+- expected_values:
+    TWINGO_UP_O2_SENS_HEATING: 0
+  response: 7E80462244B00
+- expected_values:
+    TWINGO_UP_O2_SENS_HEATING: 34
+  response: 7E80462244B66

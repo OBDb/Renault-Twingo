@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22284E
+test_cases:
+- expected_values:
+    TWINGO_RICHNESS_REGULATION_7E0: 1
+  response: 7E80462284E01
+- expected_values:
+    TWINGO_RICHNESS_REGULATION_7E0: 2
+  response: 7E80462284E02
+- expected_values:
+    TWINGO_RICHNESS_REGULATION_7E0: 16
+  response: 7E80462284E10
+- expected_values:
+    TWINGO_RICHNESS_REGULATION_7E0: 32
+  response: 7E80462284E20

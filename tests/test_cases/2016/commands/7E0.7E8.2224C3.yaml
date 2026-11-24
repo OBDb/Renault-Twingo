@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2224C3
+test_cases:
+- expected_values:
+    TWINGO_BOOST_P_WASTEGATE_CTRL: 0.00153
+  response: 7E8056224C38000

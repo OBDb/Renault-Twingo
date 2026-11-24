@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222422
+test_cases:
+- expected_values:
+    TWINGO_AIR_FLOW: 5.9
+  response: '7E8056224220076'
+- expected_values:
+    TWINGO_AIR_FLOW: 12.6
+  response: 7E80562242200FC
+- expected_values:
+    TWINGO_AIR_FLOW: 26.35
+  response: 7E805622422020F
+- expected_values:
+    TWINGO_AIR_FLOW: 92.65
+  response: 7E805622422073D

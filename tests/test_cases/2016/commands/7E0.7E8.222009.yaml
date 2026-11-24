@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222009
+test_cases:
+- expected_values:
+    TWINGO_ATMOSPHERIC_P: 1019
+  response: 7E80562200903FB
+- expected_values:
+    TWINGO_ATMOSPHERIC_P: 1020
+  response: 7E80562200903FC
+- expected_values:
+    TWINGO_ATMOSPHERIC_P: 1027
+  response: '7E8056220090403'

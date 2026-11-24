@@ -1,0 +1,8 @@
+command_id: 740.224B00|din=C0
+test_cases:
+- expected_values:
+    TWINGO_SPD_FRONT_L_H_WHL: 0
+  response: 76005624B000000
+- expected_values:
+    TWINGO_SPD_FRONT_L_H_WHL: 49.73
+  response: 76005624B00136D

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22244A
+test_cases:
+- expected_values:
+    TWINGO_DN_OXYGEN_SENS_V: 97
+  response: 7E80562244A0061
+- expected_values:
+    TWINGO_DN_OXYGEN_SENS_V: 747
+  response: 7E80562244A02EB
+- expected_values:
+    TWINGO_DN_OXYGEN_SENS_V: 771
+  response: 7E80562244A0303
+- expected_values:
+    TWINGO_DN_OXYGEN_SENS_V: 1562
+  response: 7E80562244A061A
