@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22222D
+test_cases:
+- expected_values:
+    TWINGO_CLU_PEDAL_SWITCH: 0
+  response: 7E80462222D00
+- expected_values:
+    TWINGO_CLU_PEDAL_SWITCH: 1
+  response: 7E80462222D01

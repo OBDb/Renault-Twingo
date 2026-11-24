@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2225CA
+test_cases:
+- expected_values:
+    TWINGO_LAST_OFFSET_VLV: 29.9632
+  response: 7E8056225CA0266

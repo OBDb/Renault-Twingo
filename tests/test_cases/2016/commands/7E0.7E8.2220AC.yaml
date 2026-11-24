@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2220AC
+test_cases:
+- expected_values:
+    TWINGO_MASTERVAC_P_SENS_V: 1
+  response: 7E8046220AC01

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222418
+test_cases:
+- expected_values:
+    TWINGO_V_MEAS_THROTTLE_1: 532
+  response: '7E8056224180214'
+- expected_values:
+    TWINGO_V_MEAS_THROTTLE_1: 1034
+  response: 7E805622418040A
+- expected_values:
+    TWINGO_V_MEAS_THROTTLE_1: 1227
+  response: 7E80562241804CB
+- expected_values:
+    TWINGO_V_MEAS_THROTTLE_1: 4229
+  response: '7E8056224181085'

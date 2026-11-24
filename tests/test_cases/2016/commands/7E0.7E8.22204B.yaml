@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22204B
+test_cases:
+- expected_values:
+    TWINGO_CRUISE_CTRL_SPD: 0
+  response: 7E80462204B00
+- expected_values:
+    TWINGO_CRUISE_CTRL_SPD: 5
+  response: 7E80462204B05

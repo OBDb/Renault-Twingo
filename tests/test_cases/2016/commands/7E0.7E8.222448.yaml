@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222448
+test_cases:
+- expected_values:
+    TWINGO_P_UP_TURBINE: 1020
+  response: 7E80562244803FC
+- expected_values:
+    TWINGO_P_UP_TURBINE: 1021
+  response: 7E80562244803FD
+- expected_values:
+    TWINGO_P_UP_TURBINE: 1028
+  response: '7E8056224480404'

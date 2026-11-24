@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22240B
+test_cases:
+- expected_values:
+    TWINGO_MANIFOLD_P: 179
+  response: 7E80562240B00B3
+- expected_values:
+    TWINGO_MANIFOLD_P: 519
+  response: 7E80562240B0207
+- expected_values:
+    TWINGO_MANIFOLD_P: 1014
+  response: 7E80562240B03F6
+- expected_values:
+    TWINGO_MANIFOLD_P: 1020
+  response: 7E80562240B03FC

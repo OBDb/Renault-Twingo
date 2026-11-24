@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222401
+test_cases:
+- expected_values:
+    TWINGO_BOOST_P: 1019
+  response: 7E80562240103FB
+- expected_values:
+    TWINGO_BOOST_P: 1020
+  response: 7E80562240103FC
+- expected_values:
+    TWINGO_BOOST_P: 1026
+  response: '7E8056224010402'
+- expected_values:
+    TWINGO_BOOST_P: 1027
+  response: '7E8056224010403'

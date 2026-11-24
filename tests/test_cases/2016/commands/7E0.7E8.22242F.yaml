@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22242F
+test_cases:
+- expected_values:
+    TWINGO_MEAS_THROTTLE_POS: 10.45
+  response: 7E80562242F00D1
+- expected_values:
+    TWINGO_MEAS_THROTTLE_POS: 12.7
+  response: 7E80562242F00FE
+- expected_values:
+    TWINGO_MEAS_THROTTLE_POS: 51.2
+  response: 7E80562242F0400

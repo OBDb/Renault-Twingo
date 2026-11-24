@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22244C
+test_cases:
+- expected_values:
+    TWINGO_DN_SENS_HEATING_OCR: 0
+  response: 7E80462244C00
+- expected_values:
+    TWINGO_DN_SENS_HEATING_OCR: 1.66667
+  response: 7E80462244C05
+- expected_values:
+    TWINGO_DN_SENS_HEATING_OCR: 24
+  response: 7E80462244C48
+- expected_values:
+    TWINGO_DN_SENS_HEATING_OCR: 24.33333
+  response: 7E80462244C49

@@ -1,0 +1,8 @@
+command_id: 740.224B39|din=C0
+test_cases:
+- expected_values:
+    TWINGO_P_SENS_PROGRAMMING: -0.8
+  response: 76004624B397B
+- expected_values:
+    TWINGO_P_SENS_PROGRAMMING: -0.6
+  response: 76004624B397C

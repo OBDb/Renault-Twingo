@@ -1,0 +1,5 @@
+command_id: 740.224B38|din=C0
+test_cases:
+- expected_values:
+    TWINGO_LONGITUDINAL_ACCEL_PROGRAMMING: 0.0981
+  response: 76004624B3880

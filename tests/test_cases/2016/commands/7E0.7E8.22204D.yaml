@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22204D
+test_cases:
+- expected_values:
+    TWINGO_CC_OP_RELIABLY: 0
+  response: 7E80462204D00

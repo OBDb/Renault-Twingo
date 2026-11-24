@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222069
+test_cases:
+- expected_values:
+    TWINGO_ENG_TQ_REFERENCE: 0
+  response: '7E8056220690000'
+- expected_values:
+    TWINGO_ENG_TQ_REFERENCE: 38.96875
+  response: 7E80562206904DF
+- expected_values:
+    TWINGO_ENG_TQ_REFERENCE: 96.3125
+  response: 7E8056220690C0A

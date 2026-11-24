@@ -1,0 +1,8 @@
+command_id: 740.224B0B|din=C0
+test_cases:
+- expected_values:
+    TWINGO_TRANSVERSE_ACCEL_740: -0.02
+  response: 76004624B0B7E
+- expected_values:
+    TWINGO_TRANSVERSE_ACCEL_740: 0
+  response: 76004624B0B7F

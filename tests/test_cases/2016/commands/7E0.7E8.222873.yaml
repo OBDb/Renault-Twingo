@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222873
+test_cases:
+- expected_values:
+    TWINGO_OP_RICHNESS_ADAPTIVE: 0.99999
+  response: '7E8056228738000'

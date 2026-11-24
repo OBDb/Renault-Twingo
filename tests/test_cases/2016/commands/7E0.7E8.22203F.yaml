@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22203F
+test_cases:
+- expected_values:
+    TWINGO_SPD_LIMITER: 0
+  response: 7E80462203F00
+- expected_values:
+    TWINGO_SPD_LIMITER: 1
+  response: 7E80462203F01

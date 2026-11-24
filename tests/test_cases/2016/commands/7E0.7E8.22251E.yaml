@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22251E
+test_cases:
+- expected_values:
+    TWINGO_PROPORTIONAL: 0.06274
+  response: 7E80562251E0808
+- expected_values:
+    TWINGO_PROPORTIONAL: 0.85065
+  response: 7E80562251E6CE2
+- expected_values:
+    TWINGO_PROPORTIONAL: 1
+  response: 7E80562251E8000
+- expected_values:
+    TWINGO_PROPORTIONAL: 1.36078
+  response: 7E80562251EAE2E

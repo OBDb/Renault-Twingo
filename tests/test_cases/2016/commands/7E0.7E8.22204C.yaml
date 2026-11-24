@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22204C
+test_cases:
+- expected_values:
+    TWINGO_CRUISE_CTRL_SPD_LIMITER: 0
+  response: 7E80462204C00
+- expected_values:
+    TWINGO_CRUISE_CTRL_SPD_LIMITER: 1
+  response: 7E80462204C01
+- expected_values:
+    TWINGO_CRUISE_CTRL_SPD_LIMITER: 2
+  response: 7E80462204C02

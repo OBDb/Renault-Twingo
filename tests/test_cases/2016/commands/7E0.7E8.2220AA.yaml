@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2220AA
+test_cases:
+- expected_values:
+    TWINGO_MASTERVAC_P: 600
+  response: 7E8046220AA0C
+- expected_values:
+    TWINGO_MASTERVAC_P: 650
+  response: 7E8046220AA0D
+- expected_values:
+    TWINGO_MASTERVAC_P: 700
+  response: 7E8046220AA0E
+- expected_values:
+    TWINGO_MASTERVAC_P: 750
+  response: 7E8046220AA0F

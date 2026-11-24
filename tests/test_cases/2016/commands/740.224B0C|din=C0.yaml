@@ -1,0 +1,5 @@
+command_id: 740.224B0C|din=C0
+test_cases:
+- expected_values:
+    TWINGO_YAW_ANG: 0
+  response: 76005624B0C7FFF

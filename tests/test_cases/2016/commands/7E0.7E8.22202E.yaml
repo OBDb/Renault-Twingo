@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22202E
+test_cases:
+- expected_values:
+    TWINGO_ACCEL_PEDAL_POS_7E0: 0
+  response: 7E80562202E0000
+- expected_values:
+    TWINGO_ACCEL_PEDAL_POS_7E0: 0.63125
+  response: 7E80562202E01F9
+- expected_values:
+    TWINGO_ACCEL_PEDAL_POS_7E0: 0.67
+  response: 7E80562202E0218

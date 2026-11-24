@@ -1,0 +1,5 @@
+command_id: 740.22012F|din=C0
+test_cases:
+- expected_values:
+    TWINGO_COMPUTER_SUP_V: 14.3
+  response: 7600462012F8F

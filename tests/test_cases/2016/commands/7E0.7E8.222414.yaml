@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222414
+test_cases:
+- expected_values:
+    TWINGO_MOTORISED_THROTTLE: 13.15
+  response: '7E8056224140107'
+- expected_values:
+    TWINGO_MOTORISED_THROTTLE: 24.05
+  response: 7E80562241401E1
+- expected_values:
+    TWINGO_MOTORISED_THROTTLE: 84.55
+  response: 7E805622414069B

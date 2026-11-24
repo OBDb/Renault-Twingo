@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.222031
+test_cases:
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASING: 0
+  response: '7E8056220310000'
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASING: 0.14
+  response: '7E8056220310007'
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASING: 0.16
+  response: '7E8056220310008'
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASING: 0.18
+  response: '7E8056220310009'
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASING: 0.42
+  response: '7E8056220310015'
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASING: 0.56
+  response: 7E805622031001C
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASING: 1
+  response: '7E8056220310032'
+- expected_values:
+    TWINGO_INLET_CAM_DEPHASING: 2.02
+  response: '7E8056220310065'

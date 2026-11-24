@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222021
+test_cases:
+- expected_values:
+    TWINGO_SENSORS_NO_1_FEED_V: 5
+  response: '7E8056220211388'

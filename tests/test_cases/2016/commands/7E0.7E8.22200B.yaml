@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22200B
+test_cases:
+- expected_values:
+    TWINGO_PEDAL_POTENTIOMETER_TRACK_1_V: 722
+  response: 7E80562200B02D2
+- expected_values:
+    TWINGO_PEDAL_POTENTIOMETER_TRACK_1_V: 2800
+  response: 7E80562200B0AF0
+- expected_values:
+    TWINGO_PEDAL_POTENTIOMETER_TRACK_1_V: 3371
+  response: 7E80562200B0D2B

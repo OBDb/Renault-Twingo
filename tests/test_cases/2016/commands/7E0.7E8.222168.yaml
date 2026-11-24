@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222168
+test_cases:
+- expected_values:
+    TWINGO_NUM_STARTING_CYCLES: 24770
+  response: 7E8066221680060C2
+- expected_values:
+    TWINGO_NUM_STARTING_CYCLES: 24771
+  response: 7E8066221680060C3

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222493
+test_cases:
+- expected_values:
+    TWINGO_TEST_RESULT_7E0: 0
+  response: '7E80462249300'

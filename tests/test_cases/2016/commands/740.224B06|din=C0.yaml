@@ -1,0 +1,8 @@
+command_id: 740.224B06|din=C0
+test_cases:
+- expected_values:
+    TWINGO_COMPUTER_CURRENT: 10494117
+  response: 76007624B0600A020A5
+- expected_values:
+    TWINGO_COMPUTER_CURRENT: 10494982
+  response: 76007624B0600A02406

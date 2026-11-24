@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2225D6
+test_cases:
+- expected_values:
+    TWINGO_COOLING_REQ_INJ: 1
+  response: 7E8046225D601

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222850
+test_cases:
+- expected_values:
+    TWINGO_RICHNESS_CORR: 0.86715
+  response: 7E8056228504CFD
+- expected_values:
+    TWINGO_RICHNESS_CORR: 0.99999
+  response: '7E8056228508000'
+- expected_values:
+    TWINGO_RICHNESS_CORR: 1.1117
+  response: 7E805622850AAE6

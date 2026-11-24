@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2220CD
+test_cases:
+- expected_values:
+    TWINGO_RICHNESS_REGULATION_OFFSET: 0
+  response: 7E8046220CD00
+- expected_values:
+    TWINGO_RICHNESS_REGULATION_OFFSET: 1
+  response: 7E8046220CD01

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222099
+test_cases:
+- expected_values:
+    TWINGO_ALTERNATOR_LOAD: 14.90196
+  response: '7E80462209926'
+- expected_values:
+    TWINGO_ALTERNATOR_LOAD: 90.98039
+  response: 7E804622099E8

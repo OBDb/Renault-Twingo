@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222457
+test_cases:
+- expected_values:
+    TWINGO_MOT_THROTTLE_LOW: 9.55
+  response: 7E80562245700BF

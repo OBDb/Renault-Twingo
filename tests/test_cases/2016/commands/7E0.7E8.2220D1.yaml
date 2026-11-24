@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2220D1
+test_cases:
+- expected_values:
+    TWINGO_RICHNESS_REGULATION: -0.00813
+  response: 7E8056220D17596
+- expected_values:
+    TWINGO_RICHNESS_REGULATION: -0.00778
+  response: 7E8056220D1760B
+- expected_values:
+    TWINGO_RICHNESS_REGULATION: -0.00777
+  response: 7E8056220D1760C
+- expected_values:
+    TWINGO_RICHNESS_REGULATION: -0.00777
+  response: 7E8056220D1760F
+- expected_values:
+    TWINGO_RICHNESS_REGULATION: -0.0077
+  response: 7E8056220D17625

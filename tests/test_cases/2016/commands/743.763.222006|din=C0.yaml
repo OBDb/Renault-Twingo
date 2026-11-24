@@ -1,0 +1,8 @@
+command_id: 743.763.222006|din=C0
+test_cases:
+- expected_values:
+    TWINGO_BAT_V_12_V: 1268
+  response: '763056220063188'
+- expected_values:
+    TWINGO_BAT_V_12_V: 1403.1
+  response: 7630562200636CF

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2224C4
+test_cases:
+- expected_values:
+    TWINGO_DELAY_BEFORE_UP_SENS: 0
+  response: 7E8056224C40000

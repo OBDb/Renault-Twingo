@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22200D
+test_cases:
+- expected_values:
+    TWINGO_REFRIGERANT_P_SENS_V: 0.57
+  response: 7E80562200D0039
+- expected_values:
+    TWINGO_REFRIGERANT_P_SENS_V: 0.58
+  response: 7E80562200D003A
+- expected_values:
+    TWINGO_REFRIGERANT_P_SENS_V: 0.59
+  response: 7E80562200D003B
+- expected_values:
+    TWINGO_REFRIGERANT_P_SENS_V: 0.6
+  response: 7E80562200D003C
+- expected_values:
+    TWINGO_REFRIGERANT_P_SENS_V: 0.61
+  response: 7E80562200D003D
+- expected_values:
+    TWINGO_REFRIGERANT_P_SENS_V: 0.62
+  response: 7E80562200D003E
+- expected_values:
+    TWINGO_REFRIGERANT_P_SENS_V: 0.63
+  response: 7E80562200D003F

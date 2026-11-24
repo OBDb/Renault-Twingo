@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2225C6
+test_cases:
+- expected_values:
+    TWINGO_TURBO_WASTEGATE_VLV: 0
+  response: 7E8056225C60000

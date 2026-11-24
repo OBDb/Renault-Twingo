@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222016
+test_cases:
+- expected_values:
+    TWINGO_CRANK_SYNCHRONISATION: 0
+  response: '7E80462201600'
+- expected_values:
+    TWINGO_CRANK_SYNCHRONISATION: 1
+  response: '7E80462201601'

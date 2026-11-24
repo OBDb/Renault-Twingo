@@ -1,0 +1,5 @@
+command_id: 740.224B24|din=C0
+test_cases:
+- expected_values:
+    TWINGO_SPEEDO_INDEX: 1815
+  response: 76005624B240717
