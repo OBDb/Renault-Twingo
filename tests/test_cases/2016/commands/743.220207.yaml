@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     TWINGO_ODO: 104956
   response: 763066202070199FC
+- expected_values:
+    TWINGO_ODO: 104985
+  response: 76306620207019A19
